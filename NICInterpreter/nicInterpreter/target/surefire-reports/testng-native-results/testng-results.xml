@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="323" started-at="2013-09-12T04:59:07Z" finished-at="2013-09-12T04:59:07Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="323" started-at="2013-09-12T04:59:07Z" finished-at="2013-09-12T04:59:07Z">
+      <class name="malaka.javaTest.NICInterpreterTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:malaka.javaTest.NICInterpreterTest@de6570]" name="setUp" is-config="true" duration-ms="31" started-at="2013-09-12T10:29:07Z" finished-at="2013-09-12T10:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createTest1()[pri:0, instance:malaka.javaTest.NICInterpreterTest@de6570]" name="createTest1" duration-ms="206" started-at="2013-09-12T10:29:07Z" finished-at="2013-09-12T10:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTest1 -->
+      </class> <!-- malaka.javaTest.NICInterpreterTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
